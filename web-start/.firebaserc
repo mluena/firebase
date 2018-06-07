@@ -1,5 +1,7 @@
 {
   "projects": {
-    "chat": "chat-firebase-ae063"
+    "chat": "chat-firebase-ae063",
+    "staging": "friendly-chat-1682b",
+    "default": "friendly-chat-1682b"
   }
 }
